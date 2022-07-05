@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("../assets/iconfont.woff2") format("woff2"),
+    url("../assets/iconfont.woff") format("woff"),
+    url("../assets/iconfont.ttf") format("truetype"); /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-earth:before {
+  content: "\e66f";
+}
+
+.icon-xyzfm:before {
+  content: "\e8c1";
+}
+
+.icon-bookmarks:before {
+  content: "\e640";
+}
+
+.icon-yuque:before {
+  content: "\eab5";
+}
+
+.icon-dribbble:before {
+  content: "\e608";
+}
+
+.icon-jike:before {
+  content: "\e609";
+}
+
+.icon-github:before {
+  content: "\e60a";
+}
+
+.icon-unsplash:before {
+  content: "\e60b";
+}
+
+.icon-facebook:before {
+  content: "\e60c";
+}
+
+.icon-twitter:before {
+  content: "\e60d";
+}
+
+.icon-instagram:before {
+  content: "\e60e";
+}
+
+.icon-wechat:before {
+  content: "\e60f";
+}
+
+.icon-weibo:before {
+  content: "\e610";
+}
