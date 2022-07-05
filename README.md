@@ -1,3 +1,3 @@
-# ethanwong.me
+# Project Labs
 
-Source code for [ethanwong.me](https://ethanwong.me), my personal home page, built with [Vue 3](https://v3.vuejs.org/) and [Bootstrap 4](https://getbootstrap.com/docs/4.6/).
+Source code for [https://static.ethanwong.me/labs/](https://static.ethanwong.me/labs/), a site that demonstrates some fun ideas, built with [Vue 3](https://v3.vuejs.org/) and [Bootstrap 5](https://getbootstrap.com/docs/).
